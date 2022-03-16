@@ -1,6 +1,6 @@
 ## Olá, Sou João Pedro <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.instagram.com/gama.dev/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="left" alt="jpedrogama Instagram" width="22px" src="https://www.iconfinder.com/icons/2609558/download/svg/4096" />
 </a>
 <!-- <a href="https://discord.gg/">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
@@ -9,10 +9,10 @@
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a> -->
 <a href="https://www.linkedin.com/in/jpedrogama/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="jpedrogama LinkedIN" width="22px" src="https://www.iconfinder.com/icons/317725/download/svg/4096" />
 </a>
 <a href="https://open.spotify.com/user/31untxx3n7wdu2w6vhvjzogma264">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="jpedrogama Spotify" width="22px" src="https://www.iconfinder.com/icons/1298766/download/svg/4096" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=jpedrogama.jpedrogama)
