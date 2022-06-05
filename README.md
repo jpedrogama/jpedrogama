@@ -1,4 +1,4 @@
-## Olá, Sou João Pedro <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Olá, Sou João Pedro
 <a href="https://www.instagram.com/gama.dev/">
   <img align="left" alt="jpedrogama Instagram" width="22px" src="https://www.iconfinder.com/icons/2609558/download/svg/4096" />
 </a>
