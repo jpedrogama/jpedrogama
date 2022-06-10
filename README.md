@@ -1,5 +1,5 @@
 ## Olá, Sou João Pedro
-<a href="https://www.instagram.com/gama.dev/">
+<a href="https://www.instagram.com/jpgama.dev/">
   <img align="left" alt="jpedrogama Instagram" width="22px" src="https://www.iconfinder.com/icons/2609558/download/svg/4096" />
 </a>
 <!-- <a href="https://discord.gg/">
